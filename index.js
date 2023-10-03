@@ -3,7 +3,6 @@ function createSymbol() {
   // Повернемо символ без опису
   return Symbol();
 }
-1;
 
 console.log("Завдання 1 ====================================");
 console.log(createSymbol()); // Виведе Symbol()
